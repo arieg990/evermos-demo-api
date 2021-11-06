@@ -27,12 +27,12 @@ demo@localhost:~$ docker-compose up -d
 ##Cara menjalankan app
 dengan intellij Idea
 - Klik tab project, lalu klik tombol open seperti dibawah ini
-![Step 1](images\1.png)
+![Step 1](images/1.png)
 - Lalu pilih folder project kamu simpan
-![Step 2](images\2.png)
+![Step 2](images/2.png)
 - Tunggu sampai build selesai
 - Selanjutnya cari file `DemoApplication` dan klik kanan, dan pilih `run 'DemoApplication''`
-![Step 3](images\3.png)
+![Step 3](images/3.png)
 
 **_NOTE:_**
 sebelum memulai aplikasinya pastikan sudah menjalankan docker ccomposenya
